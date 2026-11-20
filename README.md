@@ -12,7 +12,7 @@ I build secure, well-documented backends: authentication, real-time systems, and
 - 💻 Backend developer on **MediOrb** and **ORESX Power**
 - 🎓 Studying Software Engineering at the University of Benin
 - 🔐 Interested in cybersecurity, with a blue-team focus
-- 🌱 Currently learning SOLID principles and deepening my full-stack skills
+- 🌱 Currently learning SOLID principles, System Design and Architecture and deepening my full-stack skills
 - 🌍 Based in Nigeria
 
 ---
