@@ -3,7 +3,7 @@
 **Ogbebor Aisosa Matthew: Backend Developer**
 Building APIs for healthcare and energy products • Software Engineering @ University of Benin
 
-I build secure, well-documented backends: authentication, real-time systems, and payment flows that hold up in production.
+I build secure, well-documented backends: authentication, and real-time systems that hold up in production.
 
 ---
 
