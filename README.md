@@ -32,7 +32,7 @@ I build secure, well-documented backends: authentication, real-time systems, and
 
 ---
 
-## 🚀 Projects
+## 🚀 Major contribution
 
 ### 🏥 MediOrb
 A telemedicine platform with role-based access control, real-time patient queuing, Ed25519-signed offline health cards, and USSD/SMS integration. Documented with OpenAPI 3.0 across ~50 endpoints.
@@ -40,8 +40,10 @@ A telemedicine platform with role-based access control, real-time patient queuin
 ### ⚡ ORESX Power
 An energy-as-a-service and community energy sharing marketplace. Handles Paystack payments with idempotency, HMAC webhook verification, and atomic MongoDB writes.
 
+## 🚀 Projects
+
 ### 🎬 CineMood
-A mood-based movie recommendation app powered by Claude AI and TMDB.
+A mood-based movie recommendation app powered by Groq AI and TMDB.
 
 ### 🎂 WishCraft
 A birthday experience frontend.
